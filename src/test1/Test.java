@@ -15,11 +15,11 @@ public class Test {
 		for(int i = 0;i<4;i++)
 		{
 			
-			
 			gang += input.nextInt();
 		}
 		System.out.println("输入平均分"+gang/4);
 		System.out.println("dafsdfas");
+		System.out.println("abcdeff");
 		
 		
 	}
